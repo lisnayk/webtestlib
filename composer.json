@@ -2,7 +2,7 @@
     "name": "munspel/webtestlib",
     "description": "This is test project",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "slim/slim": "4.x-dev"
     },
@@ -13,5 +13,5 @@
         }
     ],
     "license": "gpl",
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
