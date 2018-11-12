@@ -1,0 +1,11 @@
+{
+    "name": "munspel/webtestlib",
+    "description": "This is test project",
+    "type": "project",
+    "version": "1.0.0",
+    "require": {
+        "slim/slim": "4.x-dev"
+    },
+    "license": "gpl",
+    "minimum-stability": "dev"
+}
