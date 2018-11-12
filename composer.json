@@ -1,15 +1,8 @@
 {
-    "name": "munspel/webtestlib",
+    "name": "lisnayk/webtestlib",
     "description": "This is test project",
     "version": "1.0.4",
     "require": {
-        "slim/slim": "4.x-dev"
-    },
-    "authors": [
-        {
-            "name": "Andrey Lisnyak",
-            "email": "munspel@ukr.net"
-        }
-    ]
-    
+        "slim/slim": "3.*"
+    }
 }
