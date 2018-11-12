@@ -1,11 +1,17 @@
 {
     "name": "munspel/webtestlib",
     "description": "This is test project",
-    "type": "project",
-    "version": "1.0.0",
+    "type": "library",
+    "version": "1.0.1",
     "require": {
         "slim/slim": "4.x-dev"
     },
+    "authors": [
+        {
+            "name": "Andrey Lisnyak",
+            "email": "munspel@ukr.net"
+        }
+    ],
     "license": "gpl",
     "minimum-stability": "dev"
 }
